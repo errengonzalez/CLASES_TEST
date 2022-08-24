@@ -17,11 +17,11 @@ int main(void)
 	int num1;
 	int num2;
 	int num3;
-	//int resultado;
+	int resultado;
 
 	// PUNTO 1 GUIA TEMA 1
 
-/*
+
 	printf("Ingrese su primer numero ");
 	scanf("%d",&num1); // -> AMPERSAN INDICA LA DIRECCION DE MEMORIA DONDE SE VA A ALMACENAR EL DATO
 
@@ -30,7 +30,7 @@ int main(void)
 
 	resultado = num1 + num2;
 	printf("La suma entre %d y %d da como resultado: %d",num1, num2, resultado);
-*/
+
 
 	// 	PUNTO 2 GUIA TEMA 1
 
@@ -42,7 +42,7 @@ int main(void)
 
 	printf("Ingrese su tercer numero ");
 	scanf("%d",&num3);
-/*
+
 	if(num1 > num2 && num1 > num3)
 	{
 		printf("El mayor de los numeros es el primero");
@@ -58,7 +58,7 @@ int main(void)
 			printf("El mayor de los numeros es el tercero");
 		}
 	}
-*/
+
 
 	// PUNTO 3 GUIA TEMA 1
 
